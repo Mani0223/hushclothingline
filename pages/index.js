@@ -25,6 +25,12 @@ export default function Index() {
           body {
             font-family: 'Bebas Neue', sans-serif;
           }
+
+          html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
         `}</style>
       </Head>
       {/* Navbar */}
