@@ -198,7 +198,7 @@ export default function Index() {
 
       {/* First Image with Text */}
       <div className="col-md-6 position-relative">
-        <img src="/images/collection.jpeg" alt="Photo 1" className="img-fluid" style={{ width: '100%' }} />
+        <img src="/images/her.jpeg" alt="Photo 1" className="img-fluid" style={{ width: '100%' }} />
         <div className="position-absolute" style={{ top: '55%', left: '50%', transform: 'translate(-50%, -50%)', textAlign: 'center' }}>
           <div>
             <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '60px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>Unisex Jerseys</span>
