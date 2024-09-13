@@ -84,7 +84,7 @@ export default function Index() {
   {/* Video Background */}
   <video
     className="position-absolute w-100 h-100"
-    src="/images/hush.mp4"
+    src="/images/Hush.mp4"
     type="video/mp4"
     autoPlay
     muted
