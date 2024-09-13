@@ -73,15 +73,12 @@ export default function Index() {
    </div>
 
 </nav>
-
-
-
    
-{/* Hero Section */}
+ {/* Hero Section */}
       <section
   className="d-flex justify-content-center align-items-center vh-100 text-center"
   style={{
-    backgroundImage: url('/images/landing.jpeg'),
+    backgroundImage: `url('/images/landing.jpeg')`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
