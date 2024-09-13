@@ -76,21 +76,34 @@ export default function Index() {
 
 
 
-      {/* Hero Section */}
-      <section
-  className="text-center bg-cover bg-center bg-no-repeat"
-  style={{ 
-    backgroundImage: `url('/images/landing.jpeg')`, 
-    minHeight: '100vh', 
-    backgroundSize: 'cover',
-    backgroundPosition: 'center'
-  }}
+   
+    {/* Hero Section */}
+<section
+  className="d-flex justify-content-center align-items-center vh-100 text-center position-relative"
 >
-  <div className="d-flex justify-content-center align-items-center vh-100">
-    <div className="container text-white">
-      
-      <a className="btn btn-dark btn-lg" href="https://fda732-6d.myshopify.com/collections/all" target="blank" rel="noopener noreferrer">Shop Now</a>
-    </div>
+  {/* Video Background */}
+  <video
+    className="position-absolute w-100 h-100"
+    src="/images/hush.mp4"
+    type="video/mp4"
+    autoPlay
+    muted
+    loop
+    style={{
+      objectFit: 'cover',
+      zIndex: '-1',  
+    }}
+  />
+
+  <div className="container text-white position-relative">
+    <a
+      className="btn btn-dark btn-lg"
+      href="https://fda732-6d.myshopify.com/collections/all"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Shop Now
+    </a>
   </div>
 </section>
 
@@ -243,15 +256,15 @@ export default function Index() {
     <div className="row">
       <div className="col-md-4 position-relative">
         <img src="/images/womens.jpeg" alt="Photo 1" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/womens-clothing" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Womens</a>
+        <a href="https://fda732-6d.myshopify.com/collections/womens-clothing" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Womens</a>
       </div>
       <div className="col-md-4 position-relative">
         <img src="/images/mens.jpeg" alt="Photo 2" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/mens-clothing" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Mens</a>
+        <a href="https://fda732-6d.myshopify.com/collections/mens-clothing" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Mens</a>
       </div>
       <div className="col-md-4 position-relative">
         <img src="/images/caps.png" alt="Photo 3" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/hats" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Hats</a>
+        <a href="https://fda732-6d.myshopify.com/collections/hats" className="position-absolute top-50 start-50 translate-middle text-white btn btn-dark btn-md">Hats</a>
       </div>
     </div>
 
@@ -259,15 +272,15 @@ export default function Index() {
     <div className="row mt-4 pb-5 border-bottom">
       <div className="col-md-4 position-relative">
         <img src="/images/joggies.jpeg" alt="Photo 4" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/unisex-jogging-suits" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Jogging Suits</a>
+        <a href="https://fda732-6d.myshopify.com/collections/unisex-jogging-suits" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Jogging Suits</a>
       </div>
       <div className="col-md-4 position-relative">
         <img src="/images/childrens2.jpeg" alt="Photo 5" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/childrens-clothing" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Childrens</a>
+        <a href="https://fda732-6d.myshopify.com/collections/childrens-clothing" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Childrens</a>
       </div>
       <div className="col-md-4 position-relative">
         <img src="/images/denim2.jpeg" alt="Photo 6" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/denim-pants" className="position-absolute top-50 start-50 translate-middle text-white btn btn-outline-light btn-md">Denim</a>
+        <a href="https://fda732-6d.myshopify.com/collections/denim-pants" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Denim</a>
       </div>
     </div>
   </div>
