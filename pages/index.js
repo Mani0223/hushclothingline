@@ -77,26 +77,17 @@ export default function Index() {
 
 
    
-    {/* Hero Section */}
-<section
-  className="d-flex justify-content-center align-items-center vh-100 text-center position-relative"
+{/* Hero Section */}
+      <section
+  className="d-flex justify-content-center align-items-center vh-100 text-center"
+  style={{
+    backgroundImage: url('/images/landing.jpeg'),
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    backgroundRepeat: 'no-repeat',
+  }}
 >
-  {/* Video Background */}
-  <video
-    className="position-absolute w-100 h-100"
-    src="/images/Hush.mp4"
-    type="video/mp4"
-    autoPlay
-    muted
-    loop
-    playsInLine
-    style={{
-      objectFit: 'cover',
-      zIndex: '-1',  
-    }}
-  />
-
-  <div className="container text-white position-relative">
+  <div className="container text-white">
     <a
       className="btn btn-dark btn-lg"
       href="https://fda732-6d.myshopify.com/collections/all"
