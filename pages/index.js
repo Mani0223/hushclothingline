@@ -89,6 +89,7 @@ export default function Index() {
     autoPlay
     muted
     loop
+    playsInLine
     style={{
       objectFit: 'cover',
       zIndex: '-1',  
