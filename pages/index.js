@@ -253,7 +253,7 @@ export default function Index() {
       </div>
       <div className="col-md-4 position-relative">
         <img src="/images/caps.png" alt="Photo 3" className="img-fluid" />
-        <a href="https://fda732-6d.myshopify.com/collections/hats" className="position-absolute top-50 start-50 translate-middle text-white btn btn-dark btn-md">Hats</a>
+        <a href="https://fda732-6d.myshopify.com/collections/hats" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Hats</a>
       </div>
     </div>
 
