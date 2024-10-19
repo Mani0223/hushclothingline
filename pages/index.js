@@ -213,13 +213,13 @@ export default function Index() {
 
       {/* Second Image with Text */}
       <div className="col-md-6 position-relative">
-        <img src="/images/model.jpeg" alt="Photo 2" className="img-fluid" style={{ width: '100%' }} />
+        <img src="/images/tlc08105.jpeg" alt="Photo 2" className="img-fluid" style={{ width: '100%' }} />
         <div className="position-absolute top-50 start-50 translate-middle text-center">
           <div>
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '70px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>SALE</span>
+            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '70px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>NEW FALL</span>
 
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '50px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>UNISEX JOGGING SUITES</span>
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '70px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>$90</span>
+            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '50px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>UNISEX JOGGING SUITS</span>
+            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '70px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>$150</span>
             <a className="btn btn-outline-light btn-lg mt-4" href="https://fda732-6d.myshopify.com/collections/unisex-jogging-suits">Shop Now</a>
           </div>
         </div>
