@@ -244,7 +244,7 @@ export default function Index() {
     {/* First row of images */}
     <div className="row">
       <div className="col-md-4 position-relative">
-        <img src="/images/tlc07586.jpeg" alt="Photo 1" className="img-fluid" />
+        <img src="/images/tlc07296.jpeg" alt="Photo 1" className="img-fluid" />
         <a href="https://fda732-6d.myshopify.com/collections/womens-clothing" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Womens</a>
       </div>
       <div className="col-md-4 position-relative">
@@ -260,7 +260,7 @@ export default function Index() {
     {/* Second row of images */}
     <div className="row mt-4 pb-5 border-bottom">
       <div className="col-md-4 position-relative">
-        <img src="/images/tlc08105.jpeg" alt="Photo 4" className="img-fluid" />
+        <img src="/images/tlc07586.jpeg" alt="Photo 4" className="img-fluid" />
         <a href="https://fda732-6d.myshopify.com/collections/unisex-jogging-suits" className="position-absolute top-50 start-50 translate-middle text-dark btn btn-light btn-md">Jogging Suits</a>
       </div>
       <div className="col-md-4 position-relative">
