@@ -203,9 +203,9 @@ export default function Index() {
         <img src="/images/her.jpeg" alt="Photo 1" className="img-fluid" style={{ width: '100%' }} />
         <div className="position-absolute" style={{ top: '55%', left: '50%', transform: 'translate(-50%, -50%)', textAlign: 'center' }}>
           <div>
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '60px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>Unisex Jerseys</span>
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '30px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>starting at</span>
-            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '80px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>$100</span>
+            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '60px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>Black Friday</span>
+            <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '30px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>SALE!</span>
+
             <a className="btn btn-outline-light btn-lg" href="https://hushclothingline.org/collections/hockey-jersey-collection">Shop Now</a>
           </div>
         </div>
