@@ -206,7 +206,7 @@ export default function Index() {
             <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '60px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>Black Friday</span>
             <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '30px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>SALE!</span>
 
-            <a className="btn btn-outline-light btn-lg" href="https://hushclothingline.org/collections/hockey-jersey-collection">Shop Now</a>
+            <a className="btn btn-outline-light btn-lg" href="https://fda732-6d.myshopify.com">Shop Now</a>
           </div>
         </div>
       </div>
