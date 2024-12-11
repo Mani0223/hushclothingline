@@ -216,8 +216,6 @@ export default function Index() {
         <img src="/images/tlc08105.jpeg" alt="Photo 2" className="img-fluid" style={{ width: '100%' }} />
         <div className="position-absolute top-50 start-50 translate-middle text-center">
           <div>
-           // <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '65px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>NEW</span>
-
             <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '50px', letterSpacing: '2px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>UNISEX JOGGING SUITS</span>
             <span style={{ display: 'block', fontFamily: 'Bebas Neue, sans-serif', color: 'white', textTransform: 'uppercase', fontSize: '70px', letterSpacing: '1px', textShadow: '-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000'  }}>$150</span>
             <a className="btn btn-outline-light btn-lg mt-4" href="https://fda732-6d.myshopify.com/collections/unisex-jogging-suits">Shop Now</a>
