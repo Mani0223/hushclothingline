@@ -109,30 +109,30 @@ export default function Index() {
           <div className="row">
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/orange.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/Black and Red.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Orange Hockey Jersey</h5>
-                   <p>$100</p>
+                  <h5 className="card-title">Jogging Suite Sets</h5>
+                   <p>$200</p>
                   
                 </div>
               </div>
             </div>
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/brown2.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/Black Shorts.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Brown Hockey Jersey</h5>
-                  <p>$100</p>
+                  <h5 className="card-title">Black Jogging Shorts</h5>
+                  <p>$90</p>
                   
                 </div>
               </div>
             </div>
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/white.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/Red short joggy.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Black & White Hockey Jersey</h5>
-                  <p>$100</p>
+                  <h5 className="card-title">Red Jogging Short Set</h5>
+                  <p>$190</p>
                   
                 </div>
               </div>
@@ -144,30 +144,30 @@ export default function Index() {
           <div className="row">
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/childrens.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/Pink shirt joggy.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Kids Orange Hockey Jersey</h5>
-                  <p>$55</p>
+                  <h5 className="card-title">Pink Jogging Short Set</h5>
+                  <p>$190</p>
                   
                 </div>
               </div>
             </div>
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/kidsb.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/red hoodie.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Kids Black & White Hockey Jersey</h5>
-                  <p>$55</p>
+                  <h5 className="card-title">Red Hoodie</h5>
+                  <p>$190</p>
                   
                 </div>
               </div>
             </div>
             <div className="col-4">
               <div className="card h-100 text-center border-0">
-                <img src="/images/hush2.jpeg" className="img-fluid mx-auto d-block" alt="..." />
+                <img src="/images/Black joggy.JPG" className="img-fluid mx-auto d-block" alt="..." />
                 <div className="card-body">
-                  <h5 className="card-title">Kids Brown & White Hockey Jersey</h5>
-                  <p>$55</p>
+                  <h5 className="card-title">Black Jogging Pants Set</h5>
+                  <p>$200</p>
                 </div>
               </div>
             </div>
