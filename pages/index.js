@@ -101,7 +101,7 @@ export default function Index() {
      {/* Carousel Items */}
 <section id="gallery" className="py-5 bg-light text-dark py-4">
   <div className="container">
-    <h1 className="text-center jumbotron-text mb-4" style={{ fontFamily: 'Bebas Neue, sans-serif' }}>2024 Fall Collection</h1>
+    <h1 className="text-center jumbotron-text mb-4" style={{ fontFamily: 'Bebas Neue, sans-serif' }}>2025 Fall Collection</h1>
 
     <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
       <div className="carousel-inner">
